@@ -11,6 +11,10 @@ Mini Garage is a Laravel-based web application for managing car models, images, 
 - Responsive UI with Bootstrap and Tailwind CSS
 - RESTful API endpoints
 
+## Live Demo
+
+View the live site: [Scale Garage24](https://scale-garage-24.up.railway.app)
+
 ## 📸 Screenshots
 
 ### Home Page
