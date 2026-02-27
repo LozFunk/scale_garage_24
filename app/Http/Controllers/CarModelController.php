@@ -32,7 +32,7 @@ class CarModelController extends Controller
         $request->validate([
             'title' => 'required|string|max:255',
             'description' => 'nullable|string',
-            'images.*' => 'required|image|max:2048'
+            'images.*' => 'required|image|max:20480',
         ]);
     
         $carModel = CarModel::create([
